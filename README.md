@@ -13,12 +13,12 @@ This project was developed with the following technologies:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 O Beauty Salon is a mock web page for a hair salon and spa.
 
-- [Acesse o projeto finalizado, online](https://arthurfamaral95.github.io/BeautySalon/)
+- [Access the final project online](https://arthurfamaral95.github.io/BeautySalon/)
 
 ## 🔖 Layout
 
-You can check the project layout through [THIS LINK](<https://www.figma.com/file/OhizpBgTMWfM2vAewn5IYO/Origin-Six-(Community)?node-id=0%3A1&mode=dev>). It is necessary to have a [Figma](https://figma.com) account to acess it.
+You can check the project layout through [THIS LINK](<https://www.figma.com/file/OhizpBgTMWfM2vAewn5IYO/Origin-Six-(Community)?node-id=0%3A1&mode=dev>). It is necessary to have a [Figma](https://figma.com) account to access it.
